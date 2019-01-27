@@ -1,0 +1,7 @@
+{
+  "name": "kuiperr005/rkmd-custom-post-type-kurse",
+  "type": "wordpress-muplugin",
+  "require": {
+    "composer/installers": "^1.0"
+  }
+}
